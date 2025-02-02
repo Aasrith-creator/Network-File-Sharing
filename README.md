@@ -1,6 +1,5 @@
 # sharing
 
-**Share** directories and files from the CLI to iOS and Android devices without the need of an extra client app
 
 ![Sharing screenshot](/doc/sharing-banner.svg?raw=true "Sharing a directory")
 
@@ -59,7 +58,4 @@ Options:
       --help                        Show help                          [boolean]
 ```
 
-## TODO
-- zip the file before transferring it (sharing --zip /path/to/file)
-- self-signed certificate creation
-- new banner screenshot (also show the --receive functionality)
+
