@@ -4,7 +4,7 @@
 ![Sharing screenshot](/doc/sharing-banner.svg?raw=true "Sharing a directory")
 
 - share directory and file
-- share your clipboard
+- share your clipboard   
 - receive file
 - support basic authentication
 - support ssl
